@@ -9,7 +9,7 @@
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/output/cod_8.exe",
+            "program": "${workspaceFolder}/output/teste.exe",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${fileDirname}",
